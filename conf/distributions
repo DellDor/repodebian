@@ -1,0 +1,7 @@
+Origin: DellDor
+Label: Github DellDor
+Suite: testing
+Architectures: i386
+Codename: delldor
+Components: main
+Description: Repositorio de paquetes DellDor para Debian

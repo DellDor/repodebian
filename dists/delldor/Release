@@ -1,0 +1,20 @@
+Origin: DellDor
+Label: Github DellDor
+Suite: testing
+Codename: delldor
+Date: Wed, 06 Jul 2016 00:55:39 UTC
+Architectures: i386
+Components: main
+Description: Repositorio de paquetes DellDor para Debian
+MD5Sum:
+ 1cef0fe7ea82fbecc6811839b2e9f3fb 832 main/binary-i386/Packages
+ 3dcfafdf7fb8f527cc083447fce48d06 559 main/binary-i386/Packages.gz
+ c1b8c363c8aca3eed9c73cd0169ff62d 147 main/binary-i386/Release
+SHA1:
+ a630f0cda0d466e9533990e8eee3f36077cbda48 832 main/binary-i386/Packages
+ 76289c22182e686d65430453cab1131145be65b5 559 main/binary-i386/Packages.gz
+ c53d67fb963825f3d753f40326a08abeaff5e23d 147 main/binary-i386/Release
+SHA256:
+ 2d6a7a16318a5b40038dd837c26b164bb0ebef139ce242afe0adcad3e8e2886f 832 main/binary-i386/Packages
+ 103962779535e652e07b78af9826fa471be25fd1f23211cdb60e29a48d20442a 559 main/binary-i386/Packages.gz
+ 866c8af42239980b66cdb93ce719c6c8597d6958f82872b656f25d10ab596b9e 147 main/binary-i386/Release

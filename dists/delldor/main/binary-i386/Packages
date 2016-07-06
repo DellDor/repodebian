@@ -1,0 +1,26 @@
+Package: delldor.aptcacher.cliente
+Essential: no
+Maintainer: Miguel Dell'Uomini (DellDor) <delldor@gmail.com>
+Architecture: all
+Version: 2016.07.05
+Installed-Size: 1
+Provides: delldor.aptcacher.cliente
+Homepage: http://delldor.wordpress.com
+Priority: optional
+Section: utils
+Filename: pool/main/d/delldor.aptcacher.cliente/delldor.aptcacher.cliente_2016.07.05_all.deb
+Size: 1516
+SHA256: 521fccc79a5aa41b525cbf478fc56b367b41b0686b65cfde86ec852d9ece4c17
+SHA1: ac67c83763f7f95359cf90390b88bf759611d5ae
+MD5sum: 1cb413493b970061c7360bdd2e69e494
+Description: Activar y desactivar proxy a apt-cacher-ng
+ Crea y ejecuta guión
+ cada vez que hay un cambio en la conexión de red.
+ ATENCIÓN CON QUE EL PUERTO CORRESPONDA
+ Idea desde:
+ https://help.ubuntu.com/community/AutomateAptCacheNgProxySettings
+ .
+ Por Miguel Dell'Uomini
+ .
+ DellDor
+
